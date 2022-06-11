@@ -1,1 +1,2 @@
 Requirements is very essential part before doing something. 
+Then go for implementation.
