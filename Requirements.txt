@@ -1,6 +1,9 @@
 Requirements is very essential part before doing something. 
 Then go for implementation.
 
+Dark Mode
+Video Calls
+
 Payment Method
 Send Money
 Receive Money
