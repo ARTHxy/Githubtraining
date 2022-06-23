@@ -1,2 +1,6 @@
 Requirements is very essential part before doing something. 
 Then go for implementation.
+
+Payment Method
+Send Money
+Receive Money
